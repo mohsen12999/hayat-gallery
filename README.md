@@ -1,2 +1,8 @@
 # hayat-gallery
-Hayat Gallery website template
+
+- Hayat Gallery website template
+
+## TODO
+
+- [ ] add font
+- [ ] slider
