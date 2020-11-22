@@ -1,0 +1,7 @@
+.dir-right {
+  direction: rtl !important;
+}
+
+.dir-left {
+  direction: ltr !important;
+}
