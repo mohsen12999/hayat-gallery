@@ -5,3 +5,27 @@
 .dir-left {
   direction: ltr !important;
 }
+
+@font-face {
+  font-family: "Yekan";
+  src: url("../fonts/yekan/BYEKAN.eot");
+  src: url("../fonts/yekan/BYEKAN.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/yekan/BYEKAN.woff") format("woff"),
+    url("../fonts/yekan/BYEKAN.ttf") format("truetype"),
+    url("../fonts/yekan/BYEKAN.svg#font1") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: "Yekan" !important;
+}
+
+.fa,
+.fas,
+.far,
+.fal,
+.fad,
+.fab {
+  font-family: "Font Awesome 5 Free" !important;
+}
