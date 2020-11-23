@@ -33,3 +33,8 @@
 #main-carousel {
   margin-top: 1rem;
 }
+
+#main-carousel a.carousel-caption:hover {
+  text-decoration: none;
+  color: black;
+}
