@@ -12,7 +12,6 @@
 - https://artunity.art/
 - https://eyeartgallery.com/
 
-- https://codemyui.com/tag/hover-animation/
+- https://www.tate.org.uk/
 
-1883*593
-1438*400
+- https://codemyui.com/tag/hover-animation/
