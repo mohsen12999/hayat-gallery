@@ -29,3 +29,7 @@
 .fab {
   font-family: "Font Awesome 5 Free" !important;
 }
+
+#main-carousel {
+  margin-top: 1rem;
+}
